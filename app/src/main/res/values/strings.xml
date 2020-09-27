@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DiaShield</string>
+
+    <string name="buttonsymptoms">SYMPTOMS</string>
+    <string name="buttonuploadsigns">UPLOAD SIGNS</string>
+    <string name="buttonMHR">MEASURE HEART RATE</string>
+    <string name="buttonMRR">MEASURE RESPIRATORY RATE</string>
+    <string name="secondviewtitle">Symptom Logging Page</string>
+    <string name="uploadsymptoms">Upload Symptoms</string>
+    <string-array name="symptom_list">
+        <item>Nausea</item>
+        <item>Headache</item>
+        <item>Diarrhea</item>
+        <item>Sore Throat</item>
+        <item>Fever</item>
+        <item>Muscle Ache</item>
+        <item>Loss of Smell or Taste</item>
+        <item>Cough</item>
+        <item>Shortness of Breath</item>
+        <item>Feeling Tired</item>
+    </string-array>
+</resources>
